@@ -1,0 +1,37 @@
+{
+ "839198316": {
+  "place name": "Bluefield",
+  "longitude": "-81.1601",
+  "state": "West Virginia",
+  "state abbreviation": "WV",
+  "latitude": "37.3327"
+ },
+ "839231703": {
+  "place name": "Corning",
+  "longitude": "-77.0475",
+  "state": "New York",
+  "state abbreviation": "NY",
+  "latitude": "42.1383"
+ },
+ "837888197": {
+  "place name": "El Monte",
+  "longitude": "-118.0371",
+  "state": "California",
+  "state abbreviation": "CA",
+  "latitude": "34.0791"
+ },
+ "839231493": {
+  "place name": "Cleveland",
+  "longitude": "-81.7044",
+  "state": "Ohio",
+  "state abbreviation": "OH",
+  "latitude": "41.3853"
+ },
+ "839231500": {
+  "place name": "Aurora",
+  "longitude": "-88.2453",
+  "state": "Illinois",
+  "state abbreviation": "IL",
+  "latitude": "41.7523"
+ }
+}
